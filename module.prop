@@ -1,0 +1,6 @@
+id=PerfFixed
+name=𝙇𝙚𝙖𝙣 [Perf Fixed]
+version=v1
+versionCode=1
+author=@LeanHijosdesusMadres [telegram]
+description=This module prevents your device from reducing its performance, which can be useful for games or applications that require high performance. su -c leanperf / leanperfoff
