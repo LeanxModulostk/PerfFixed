@@ -1,0 +1,18 @@
+echo "▸Please wait moment"
+sleep 2
+su -c "cmd power set-fixed-performance-mode-enabled false"
+sleep 2
+echo " "
+echo "░█████╗░███████╗███████╗"
+echo "██╔══██╗██╔════╝██╔════╝"
+echo "██║░░██║█████╗░░█████╗░░"
+echo "██║░░██║██╔══╝░░██╔══╝░░"
+echo "╚█████╔╝██║░░░░░██║░░░░░"
+echo "░╚════╝░╚═╝░░░░░╚═╝░░░░░"
+echo " "
+echo "      𝙋𝙚𝙧𝙛 𝙁𝙞𝙭𝙚𝙙     "
+echo " "
+echo "𝘉𝘺 𝙇𝙚𝙖𝙣"
+echo " "
+echo "☬ @ModulOStk"
+echo " "
